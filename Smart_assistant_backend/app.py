@@ -80,7 +80,7 @@ def turn_audio_into_txt():
 
 
 
-    debug_mode = True
+    debug_mode = False
     print("Debug_Mode:{}".format(debug_mode))
     if not debug_mode:
 
